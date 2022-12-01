@@ -46,3 +46,26 @@ This is the webiste for 'Like a Bee' Boxing club, it is designed to be responsib
 • Tutor support from Code Institute for their support.
 • The slack community of coders for immediate and helpful response.
 • My mentor for feedback throughout.
+
+## Testing User Stories from User Experiencer 
+
+• First time visitor goals
+
+## Deployment
+
+### GitHub Pages
+
+The project was deployed to GitHub using the following stages;
+
+### Forking the GitHub Repository
+
+### Making a Local Clone
+
+## Further Testing 
+
+• The webiste was tested on Google Chrome, firefox, Safari.....
+• The website was viewed on a variety of devices such as Desktop, Laptop, Mobile Phone (apple and android) and tablets
+
+## Known bugs
+
+(detail issues found on the different devices)
